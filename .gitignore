@@ -1,2 +1,2 @@
-requirements
-settings
+./requirements.txt
+./deliciasangelus/settings.py
